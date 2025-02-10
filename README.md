@@ -1,4 +1,4 @@
--👋 We're @TMG-Devs, a group of IT Security consultants passionate about building utility applications and scripts that make the workday easier for IT professionals. 
+-👋 I'm a IT Security consultant passionate about building utility applications and scripts that make the workday easier for IT & Cybersecurity professionals. 
 
 -👀 I’m interested in: Exploring automation in IT security, developing tools to streamline workflows, and enhancing security practices in organizations. We are also focused on cloud environments, Infrastructure-as-Code, and making IT infrastructure management more efficient.
 
